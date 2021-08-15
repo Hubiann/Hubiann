@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Hubiann
+- 👀 I’m interested in programming implementation in architectural research.
+- 🌱 I’m currently learning python and c# for hard surface modelling applications.
